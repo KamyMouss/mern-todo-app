@@ -1,4 +1,4 @@
-## Description
+# MERN todo app
 
 A simple todo list app built using the MERN (MongoDB, Express, React, Node.js) stack.
 
@@ -12,6 +12,5 @@ To test it, first run the [backend](https://github.com/ogKamy/mern-todo-app-back
 #### `npm install`
 #### `npm start`
 
-Make sure the database is running on [MongoDB Atlas] https://cloud.mongodb.com
 
 
